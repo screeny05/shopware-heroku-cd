@@ -1,0 +1,24 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "9568f4783e743c3a42e815427b35e4a4",
+    "content-hash": "7f12bc613aba6aafa117e961965aee13",
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^7.1.0",
+        "ext-ftp": "*",
+        "ext-gd": "*",
+        "ext-soap": "*",
+        "ext-apcu": "*"
+    },
+    "platform-dev": []
+}
