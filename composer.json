@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": "^7.1.0",
+    "ext-ftp": "*",
+    "ext-gd": "*",
+    "ext-soap": "*",
+    "ext-apcu": "*"
+  }
+}
